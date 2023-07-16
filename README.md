@@ -23,7 +23,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/basic-blog-website.git
+git clone https://github.com/saswatms/basic-blog-website.git
 cd basic-blog-website
 ```
 
