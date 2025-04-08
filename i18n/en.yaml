@@ -4,7 +4,7 @@ theme_dark: Dark Theme
 
 # Footer
 scroll_top: Scroll to Top
-footer: Made with ❤️ and powered by {{ .ThemeAnchor }} theme for {{ .HugoAnchor }}
+footer: Made with ❤️
 
 # Home
 featured_posts: Featured Posts

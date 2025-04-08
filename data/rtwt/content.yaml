@@ -1,6 +1,6 @@
 home:
   image: 'images/greetings.jpg'
-  greetings: "Saswat's blog!"
+  greetings: "नमस्ते"
   text: 'Most probably about is what you should look for getting the greetings.'
 side:
   home:

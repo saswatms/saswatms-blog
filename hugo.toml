@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-US'
-title = 'Rusty Typewriter'
+title = "saswat's blog"
 theme = 'rusty-typewriter'
 
 
@@ -20,7 +20,7 @@ topic = 'topics'
 series = 'series'
 
 [params.author]
-name = 'Matheus Queiroz'
+name = 'Saswat Mishra'
 
 [[menus.main]]
 name = 'Posts'

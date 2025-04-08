@@ -1,6 +1,5 @@
 +++
 date = '2025-04-08T09:51:26+05:30'
-draft = true
 title = 'The End'
 tags = ["random"]
 topics = []
