@@ -1,0 +1,56 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-US'
+title = 'Rusty Typewriter'
+theme = 'rusty-typewriter'
+
+
+# ghpages stuff
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+# rtwt = Rusty Typewriter Theme
+[params.rtwt.side.home]
+taxonomies = ['tags','series']
+countTaxonomy = 4
+
+[taxonomies]
+tag = 'tags'
+topic = 'topics'
+series = 'series'
+
+[params.author]
+name = 'Matheus Queiroz'
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 1
+
+[[menus.main]]
+name = 'Features'
+pageRef = '/features'
+weight = 2
+
+[[menus.main]]
+name = 'About'
+pageRef = '/about.md'
+weight = 3
+
+# search related stuff ================
+
+[outputFormats]
+ [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
+
+[mediaTypes]
+ [mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputs]
+ home = ["HTML","RSS", "SearchIndex"]
+
+# =====================================

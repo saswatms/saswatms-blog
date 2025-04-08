@@ -1,0 +1,12 @@
+home:
+  image: 'images/greetings.jpg'
+  greetings: "Saswat's blog!"
+  text: 'Most probably about is what you should look for getting the greetings.'
+side:
+  home:
+  - content: 'The probability of you coming on this page might be low.'
+  - title: 'Goto Link'
+    content: "GitHub is the world's largest software development platform."
+    imagePath: 'https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'
+    imageHref: 'https://github.com/saswatms'
+    imageWidth: '50%'
