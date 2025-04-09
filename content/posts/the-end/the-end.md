@@ -16,8 +16,7 @@ Who the hell start their blog like that??
 
 > End is the beginning
 
-they say, then I am up for give it a chance.
-what happened previously, what will happen now?
+They say, then I am up for giving it a chance. What happened previously, what will happen now?
 
 *a way to slip through crack of time.*
 
@@ -25,26 +24,24 @@ what happened previously, what will happen now?
 
 ## Leave the things behind
 
-As a way to go through your minds current state you need to pass some shit away from your mind and heart.
-*declutter*
+As a way to go through your mind’s current state, you need to pass some shit away from your mind and heart. *Declutter.*
 
 ## What will come next?
 
-Nobody know as of now. I am up for writing showing anything.
-So grab a popcorn without caramelized else you'll have to pay tax.
+Nobody knows as of now. I am up for writing showing anything. So grab a popcorn without caramelization, else you’ll have to pay tax.
 
 So it seems I'll keep it short and **good bye, amigo**.
 
-But at the same time I think I need to give you at least 1 minute of read time, else how you will engage in future posts?
+But at the same time, I think I need to give you at least 1 minute of read time; else, how will you engage in future posts?
 
-Hmm. So the story begins when I was struggling to survive academically.
-It was very hot may at *DTU*. The college of a kind.
+Hmm. So the story begins when I was struggling to survive academically. It was very hot May at **DTU**. The college of a kind.
 
-It never had any good place in my heart. like an trauma till the day.
+It never had any good place in my heart, like a trauma till the day.
 
-I took rickshaw from metro checked the phone, class was cancelled.
+I took a rickshaw from the metro, checked the phone, and class was cancelled.
 
-Oh we've got our 1 minute mark.
+Oh, we’ve got our 1-minute mark.
 
 ---
 Final *good bye*
+

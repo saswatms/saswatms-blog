@@ -17,6 +17,14 @@ In this blog, I’m not setting out to accomplish anything in particular. I’m 
 As of now Software Developer @ TCS 👨‍💻
 but I do much more than that _video editing 🎥_, _music production 🎼_, storytelling ⛬ and writing ✍️ some time anything.
 
+### Some Useful Links
+
+[Leetcode the website I use for Problem Solving](https://leetcode.com/u/saswatms/)
+
+[Github](http://github.com/saswatms/)
+
+[Linkedin](https://www.linkedin.com/in/saswatms/)
+
 ---
 
 Thanks for tuning Love you all 😌
